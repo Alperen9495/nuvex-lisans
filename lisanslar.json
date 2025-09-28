@@ -1,22 +1,30 @@
 {
-    "kemal tekeli": {
-        "baslangic": "2024-01-20",
-        "bitis": "2024-10-30",
-        "durum": "aktif"
-    },
-    "mustafa diler": {
-        "baslangic": "2024-01-20",
-        "bitis": "2024-02-20",
-        "durum": "aktif"
-    },
-    "yönetici": {
-        "baslangic": "2024-01-20",
-        "bitis": "2025-10-20",
-        "durum": "aktif"
-    },
-    "admin": {
-        "baslangic": "2024-01-20",
-        "bitis": "2025-10-30",
-        "durum": "pasif"
-    }
+  "kemal tekeli": {
+    "baslangic": "2024-01-20",
+    "bitis": "2024-10-30",
+    "durum": "aktif"
+  },
+  "mustafa diler": {
+    "baslangic": "2024-01-20",
+    "bitis": "2024-02-20",
+    "durum": "aktif"
+  },
+  "yönetici": {
+    "baslangic": "2024-01-20",
+    "bitis": "2025-10-20",
+    "durum": "aktif"
+  },
+  "admin": {
+    "baslangic": "2024-01-20",
+    "bitis": "2025-10-30",
+    "durum": "pasif"
+  },
+  "alperen": {
+    "kullanici_adi": "alperen",
+    "durum": "aktif",
+    "baslangic": "2025-08-28",
+    "bitis": "2025-10-30",
+    "olusturulma_tarihi": "2025-09-28 20:44:49",
+    "aciklama": "yönetimden"
+  }
 }
