@@ -21,10 +21,10 @@
   },
   "alperen": {
     "kullanici_adi": "alperen",
-    "durum": "aktif",
-    "baslangic": "2025-08-28",
-    "bitis": "2025-10-30",
-    "olusturulma_tarihi": "2025-09-28 20:44:49",
-    "aciklama": "yönetimden"
+    "durum": "pasif",
+    "baslangic": "2025-09-28",
+    "bitis": "2025-10-28",
+    "olusturulma_tarihi": "2025-09-28 20:48:01",
+    "aciklama": ""
   }
 }
