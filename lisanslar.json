@@ -1,7 +1,7 @@
 {
   "kemal tekeli": {
     "kullanici_adi": "kemal tekeli",
-    "durum": "aktif",
+    "durum": "pasif",
     "baslangic": "2025-09-29",
     "bitis": "2025-10-29",
     "olusturulma_tarihi": "2025-09-29 21:05:03",
@@ -10,7 +10,7 @@
   "mustafa diler": {
     "baslangic": "2024-01-20",
     "bitis": "2024-02-20",
-    "durum": "aktif"
+    "durum": "pasif"
   },
   "yönetici": {
     "baslangic": "2024-01-20",
