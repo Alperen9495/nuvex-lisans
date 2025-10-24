@@ -18,9 +18,12 @@
     "durum": "aktif"
   },
   "admin": {
-    "baslangic": "2024-01-20",
-    "bitis": "2025-10-30",
-    "durum": "aktif"
+    "kullanici_adi": "admin",
+    "durum": "aktif",
+    "baslangic": "2025-10-24",
+    "bitis": "2025-11-30",
+    "olusturulma_tarihi": "2025-10-24 20:48:04",
+    "aciklama": ""
   },
   "alperen": {
     "kullanici_adi": "alperen",
