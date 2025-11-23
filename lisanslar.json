@@ -32,5 +32,13 @@
     "bitis": "2025-10-28",
     "olusturulma_tarihi": "2025-09-28 20:48:01",
     "aciklama": ""
+  },
+  "ece": {
+    "kullanici_adi": "ece",
+    "durum": "aktif",
+    "baslangic": "2025-11-23",
+    "bitis": "2025-12-23",
+    "olusturulma_tarihi": "2025-11-23 18:21:40",
+    "aciklama": ""
   }
 }
